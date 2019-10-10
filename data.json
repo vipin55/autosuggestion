@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "name": "Nick Giannopouos",
+      "emailId": "n.giannopoulus@example.com"
+    },
+    {
+      "name": "Narayana Garner",
+      "emailId": "n.garner@example.com"
+    },
+    {
+      "name": "Anita Gros",
+      "emailId": "a.gros@example.com"
+    },
+    {
+      "name": "Megan Smith",
+      "emailId": "m.smith@example.com"
+    }
+  ]
+}
